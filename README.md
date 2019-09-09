@@ -2,7 +2,7 @@ NEWS HIGHLIGHTS
 ---
 Author:
 -------
- 
+ Fidel Omondi
 
 Description
 ------
@@ -21,7 +21,8 @@ Setup/Installation Requirements
 
 SetUp Procedure
 ----
-* Go to my Github repository and clone the repository to your local machine using this link:https://github.com/Monroe100/newshighlight.git
+* Go to my Github repository and clone the repository to your local machine using this link:
+https://heroku-app15.herokuapp.com
 * Navigate to the Document using the console.
 * create a virtual environment using the following instructions.
 ------
@@ -65,4 +66,4 @@ No known bugs yet
 
  License
  ------
- Copyright (c) 
+ Copyright (c) Fidel Omodi
